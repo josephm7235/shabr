@@ -14,8 +14,7 @@
     display: table-cell;
     color: Black;
   }
-  
-  h1,h2,h3,h4, .container, .nav{
+.container, .nav{
   font-family: 'Rubik', sans-serif;
   color:black;
 }
@@ -36,7 +35,4 @@
 .jumbotron{
   background-color:gray;
 }
-  
-  
-  
   
